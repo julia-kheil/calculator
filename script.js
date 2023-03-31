@@ -1,5 +1,3 @@
-<input type="text" id="result" readonly  class="textView" name="textView"></input>
-
 function insert(num){
     document.form.textView.value =  document.form.textView.value+num;
 }
